@@ -30,8 +30,8 @@ void DisableInterrupts(void); // Disable interrupts
 void EnableInterrupts(void);  // Enable interrupts
 
 
-void SystemInit(void){
-}
+//void SystemInit(void){
+//}
 
 // The #define statement SYSDIV2 initializes
 // the PLL to the desired frequency.

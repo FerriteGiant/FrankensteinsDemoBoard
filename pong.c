@@ -4,7 +4,7 @@
 
 #include "pong.h"
 #include "IO.h"
-#include "SoundEffects.txt"
+#include "SoundEffects.dat"
 
 #define GAMEWIDTH 151
 #define STARTSPEED_X 4
